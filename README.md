@@ -5,3 +5,6 @@ In this project i am going to revamp the whole site by first updating menu tabs 
 
 How to Run The Project
 in this site we shall be adding a few live transitions and backgrounds to the app and redesigning the whole theme of the page to look a bit fresh by using JSX and CSS and also some little bit of python. To run the project as it is a prototype, we shall be using Sigma app as we shall be operating first with the skeleton of the site. 
+
+How to Contribute to the Project
+Editing a file with a Text Editor through VsCode and merging a descriptive detail of the contribution made then merging the contribution
